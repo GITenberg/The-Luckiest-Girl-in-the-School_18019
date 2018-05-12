@@ -1,0 +1,43 @@
+_repo: The-Luckiest-Girl-in-the-School_18019
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18019-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: There's no doubt about it, we really must economize somehow! sighed Mrs.
+  Woodward helplessly, with her house-keeping book in one hand, and her bank pass-book
+  in the other, and an array of bills spread out on the table in front of her. "Children,
+  do you hear what I say? The war will make a great difference to our income, and
+  we can't - simply can't - go on living in exactly the old way. The sooner we all
+  realize it the better. I wish I knew where to begin." "Might knock off going to
+  church, and save the money we give in collections!" suggested Percy flippantly.
+  "It must tot up to quite a decent sum in the course of a year, not to mention pew
+  rent!" His mother cast a reproachful glance at him. "Now, Percy, do be serious for
+  once! You and Winona are quite old enough to understand business matters. I must
+  discuss them with somebody. As I said before, we shall really have to economize
+  somehow, and the question is where to begin." "I saw some hints in a magazine the
+  other day," volunteered Winona, hunting among a pile of papers, and fishing up a
+  copy of The Housewife's Journal. "Here you are!"
+gutenberg_bookshelf:
+- School Stories
+- Children's Fiction
+gutenberg_issued: '2006-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+title: The Luckiest Girl in the School
+url: http://www.gutenberg.org/ebooks/18019
